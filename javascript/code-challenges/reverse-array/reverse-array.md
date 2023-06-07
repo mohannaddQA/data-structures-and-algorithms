@@ -1,6 +1,6 @@
 # reverse-array
 
-we are givven an array , we must reverse it without built in functions
+we are given an array , we must reverse it without built in functions
 
 ## Whiteboard Process
 
