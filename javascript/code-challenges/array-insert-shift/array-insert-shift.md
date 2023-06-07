@@ -15,7 +15,10 @@ but we must put a condition , if we reach the middle index , we push the added v
 ## Solution
 
 [javaScript file](./array-insert-shift.js)
-`const insertShiftArray = (arr, x) => {
+
+```
+
+const insertShiftArray = (arr, x) => {
 //lets findout the middle index of the array
 const middleIndex =
 arr.length % 2 === 0 ? arr.length / 2 : Math.floor(arr.length / 2);
@@ -28,6 +31,7 @@ newArr.push(x);
 newArr.push(arr[i]);
 }
 
-return console.log(newArr, middleIndex);
+return newArr,;
 };
-`
+
+```

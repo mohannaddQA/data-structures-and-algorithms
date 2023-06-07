@@ -11,5 +11,5 @@ const insertShiftArray = (arr, x) => {
     newArr.push(arr[i]);
   }
 
-  return console.log(newArr, middleIndex);
+  return middleIndex;
 };
