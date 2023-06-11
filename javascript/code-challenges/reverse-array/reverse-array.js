@@ -7,3 +7,4 @@ function reverseArray(arr) {
   }
   return newArr;
 }
+
