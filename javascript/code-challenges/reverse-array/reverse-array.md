@@ -1,6 +1,6 @@
 # reverse-array
 
-we are givven an array , we must reverse it without built in functions
+we are given an array , we must reverse it without built in functions
 
 ## Whiteboard Process
 
@@ -13,7 +13,9 @@ accessing the last index value , and adding it to a new array , then we decrease
 ## Solution
 
 [javaScript file](./reverse-array.js)
-`"use strict";
+
+```
+"use strict";
 
 function reverseArray(arr) {
 let newArr = [];
@@ -22,4 +24,4 @@ newArr[i] = arr[arr.length - i - 1];
 }
 return newArr;
 }
-`
+```
