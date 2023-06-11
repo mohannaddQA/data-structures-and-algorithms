@@ -1,7 +1,49 @@
-'use strict';
+"use strict";
 
-class LinkedList {
-
+class Node {
+  constructor(value, next = null) {
+    this.value = value;
+    this.next = next;
+  }
 }
+/* ================================================= */
+module.exports = class LinkedList {
+  constructor(head = null) {
+    this.head = head;
+  }
 
-module.exports = LinkedList;
+  insert(value) {
+    const new_node = new Node(value);
+    if (!this.head) {
+      this.head = new_node;
+    } else {
+      new_node.next = this.head;
+      this.head = new_node;
+    }
+  }
+
+  includes(value) {
+    let current = this.head;
+    while (current) {
+      if (current.value === value) {
+        return true;
+      } else {
+        current = current.next;
+      }
+    }
+    if (current === null) {
+      return false;
+    }
+  }
+
+  to_string() {
+    let current = this.head;
+    let result = "";
+    while (current) {
+      result += `{ ${current.value} } -> `;
+      current = current.next;
+    }
+    result += "NULL";
+    return result;
+  }
+};

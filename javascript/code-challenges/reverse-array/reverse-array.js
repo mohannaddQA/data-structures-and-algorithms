@@ -7,3 +7,19 @@ function reverseArray(arr) {
   }
   return newArr;
 }
+function sayHello() {
+  console.log("Hello!");
+  return "hi!";
+}
+
+// Calling the function
+sayHello(); // Outputs: "Hello!"
+console.log(typeof sayHello());
+
+// Referencing the function
+const greet = sayHello;
+console.log(typeof greet); // Outputs: "function"
+console.log(typeof sayHello);
+
+// Invoking the referenced function
+greet(); // Outputs: "Hello!"
