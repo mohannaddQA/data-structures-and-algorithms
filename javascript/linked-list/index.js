@@ -7,7 +7,7 @@ class Node {
   }
 }
 /* ================================================= */
-module.exports = class LinkedList {
+class LinkedList {
   constructor(head = null) {
     this.head = head;
   }
@@ -46,4 +46,10 @@ module.exports = class LinkedList {
     result += "NULL";
     return result;
   }
-};
+}
+const mylist = new LinkedList();
+mylist.insert("abuqarea");
+mylist.insert("mohannad");
+mylist.insert("hello");
+console.log(mylist);
+module.exports = LinkedList;
