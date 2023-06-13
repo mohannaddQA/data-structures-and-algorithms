@@ -10,50 +10,49 @@ describe("LinkedList", () => {
 
   test("can  insert into the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    expect(mylist.head.value).toBe("a");
+    mylist.insert("hello");
+    expect(mylist.head.value).toBe("hello");
   });
 
   test("head points to the first node in the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    mylist.insert("b");
-    expect(mylist.head.value).toBe("b");
+    mylist.insert("mohannad");
+    mylist.insert("hello");
+    expect(mylist.head.value).toBe("hello");
+    expect(mylist.head.next.value).toEqual("mohannad");
   });
 
-  // Test case 4: Can properly insert multiple nodes into the linked list
   test("can properly insert multiple nodes into the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    mylist.insert("b");
-    mylist.insert("c");
-    expect(mylist.head.value).toBe("c");
+    mylist.insert("abuqarea");
+    mylist.insert("mohannad");
+    mylist.insert("hello");
+    expect(mylist.head.value).toBe("hello");
   });
 
-  // Test case 5: Will return true when finding a value within the linked list that exists
   test("returns true when finding an existing value in the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    mylist.insert("b");
-    mylist.insert("c");
-    expect(mylist.includes("b")).toBe(true);
+    mylist.insert("abuqarea");
+    mylist.insert("mohannad");
+    mylist.insert("hello");
+    expect(mylist.includes("mohannad")).toBe(true);
   });
 
-  // Test case 6: Will return false when searching for a value in the linked list that does not exist
   test("returns false when searching for a non-existing value in the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    mylist.insert("b");
-    mylist.insert("c");
+    mylist.insert("abuqarea");
+    mylist.insert("mohannad");
+    mylist.insert("hello");
     expect(mylist.includes("d")).toBe(false);
   });
 
-  // Test case 7: Can properly return a collection of all the values that exist in the linked list
   test("can properly return a collection of all values in the linked list", () => {
     const mylist = new LinkedList();
-    mylist.insert("a");
-    mylist.insert("b");
-    mylist.insert("c");
-    expect(mylist.to_string()).toBe("{ c } -> { b } -> { a } -> NULL");
+    mylist.insert("abuqarea");
+    mylist.insert("mohannad");
+    mylist.insert("hello");
+    expect(mylist.to_string()).toBe(
+      "{ hello } -> { mohannad } -> { abuqarea } -> NULL"
+    );
   });
 });
