@@ -28,4 +28,6 @@ To run your tests
 | --------------- | ------------------------------------------------------------------------------------------- |
 | callenge 1      | [array reverse](./javascript/code-challenges/reverse-array/reverse-array.md)                |
 | callenge 2      | [array insert shift](./javascript/code-challenges/array-insert-shift/array-insert-shift.md) |
+| callenge 3      |                                                                                             |
 | DSA             | [Linked List](./javascript/linked-list/linked-list.md)                                      |
+| challenge 4     | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)    |
