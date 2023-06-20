@@ -4,7 +4,7 @@ we are given a sorted array , we must implements the idea of binary search , to 
 
 ## Whiteboard Process
 
-![whiteboard](./array-binary-search.md)
+![whiteboard](./Screen12.png)
 
 ## Approach & Efficiency
 
