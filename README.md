@@ -24,10 +24,11 @@ To run your tests
 
 ### table of contents for Code code challenges
 
-| challeng number | code challenge                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------- |
-| callenge 1      | [array reverse](./javascript/code-challenges/reverse-array/reverse-array.md)                |
-| callenge 2      | [array insert shift](./javascript/code-challenges/array-insert-shift/array-insert-shift.md) |
-| callenge 3      | [Binary search](./javascript/code-challenges/array-binary-search/array-binary-search.md)    |
-| DSA             | [Linked List](./javascript/linked-list/linked-list.md)                                      |
-| challenge 4     | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)    |
+| challeng number   | code challenge                                                                                      |
+| ----------------- | --------------------------------------------------------------------------------------------------- |
+| callenge 1        | [array reverse](./javascript/code-challenges/reverse-array/reverse-array.md)                        |
+| callenge 2        | [array insert shift](./javascript/code-challenges/array-insert-shift/array-insert-shift.md)         |
+| callenge 3        | [Binary search](./javascript/code-challenges/array-binary-search/array-binary-search.md)            |
+| challenge 4       | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)            |
+| challenge 5 - DSA | [Linked List creation](./javascript/linked-list/linked-list-creation/linked-list.md)                |
+| challenge 6 - DSA | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md) |
