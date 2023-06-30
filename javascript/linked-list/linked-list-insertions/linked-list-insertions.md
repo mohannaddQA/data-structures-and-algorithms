@@ -64,5 +64,5 @@ Write the following methods for the Linked List class:
 ### Efficiency
 
 for the three new methods :
-time complexity : o(n)
-space complexity : o(1)
+- time complexity : o(n)
+- space complexity : o(1)
