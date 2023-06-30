@@ -33,3 +33,4 @@ To run your tests
 | challenge 5 - DSA | [Linked List creation](./javascript/linked-list/linked-list-creation/linked-list.md)                |
 | challenge 6 - DSA | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md) |
 | challenge 7 - DSA | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                      |
+| challenge 8 - DSA | [Linked List zip](./javascript/linked-list/linked-list-zip/linked-list-zip.md)                      |
