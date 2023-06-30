@@ -32,3 +32,4 @@ To run your tests
 | challenge 4       | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)            |
 | challenge 5 - DSA | [Linked List creation](./javascript/linked-list/linked-list-creation/linked-list.md)                |
 | challenge 6 - DSA | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md) |
+| challenge 7 - DSA | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                      |
