@@ -55,7 +55,7 @@ Write the following methods for the Linked List class:
 
 ### visualization
 
-![tests](./examplecases.png)
+![visualization](./visualization.JPG)
 
 ### code
 
