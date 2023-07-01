@@ -34,3 +34,4 @@ To run your tests
 | challenge 6 - DSA | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md) |
 | challenge 7 - DSA | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                      |
 | challenge 8 - DSA | [Linked List zip](./javascript/linked-list/linked-list-zip/linked-list-zip.md)                      |
+| challenge 9 - DSA | [mock interview practice](./javascript/linked-list/linked-list-reverse/linked-list-reverse.md)      |
