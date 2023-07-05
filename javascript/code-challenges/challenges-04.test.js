@@ -98,10 +98,10 @@ Here is an example of the input:
 ------------------------------------------------------------------------------------------------ */
 
 const sortByPrice = (arr) => {
-  let sorted = arr.sort(function (a, b) {
+  let sortedArr = arr.sort(function (a, b) {
     return a.price - b.price;
   });
-  return sorted;
+  return sortedArr;
 };
 
 /* ------------------------------------------------------------------------------------------------
