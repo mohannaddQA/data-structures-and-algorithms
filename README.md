@@ -35,4 +35,5 @@ To run your tests
 | challenge 7 - DSA  | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                      |
 | challenge 8 - DSA  | [Linked List zip](./javascript/linked-list/linked-list-zip/linked-list-zip.md)                      |
 | challenge 9 - DSA  | [mock interview practice](./javascript/linked-list/linked-list-reverse/linked-list-reverse.md)      |
-| challenge 10 - DSA | [stack-and-queue](./javascript/stack-and-queue/stack-and-queue-implementation/stackQueue.md)        |
+| challenge 10 - DSA | [stack and queue](./javascript/stack-and-queue/stack-and-queue-implementation/stackQueue.md)        |
+| challenge 11 - DSA | [Pseudo queue](./javascript/stack-and-queue/stack-queue-pseudo/pseudoQueue.md)                      |
