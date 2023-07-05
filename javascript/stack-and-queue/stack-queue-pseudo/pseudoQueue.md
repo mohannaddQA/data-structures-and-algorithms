@@ -28,7 +28,7 @@
 
 ### visualization
 
-![visu](./Queue.png)
+![visu](./visu.png)
 
 ### code
 
