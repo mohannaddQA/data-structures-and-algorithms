@@ -37,3 +37,4 @@ To run your tests
 | challenge 9 - DSA  | [mock interview practice](./javascript/linked-list/linked-list-reverse/linked-list-reverse.md)      |
 | challenge 10 - DSA | [stack and queue](./javascript/stack-and-queue/stack-and-queue-implementation/stackQueue.md)        |
 | challenge 11 - DSA | [Pseudo queue](./javascript/stack-and-queue/stack-queue-pseudo/pseudoQueue.md)                      |
+| challenge 12 - DSA | [queue animal shilter](.//javascript/stack-and-queue/stack-queue-animal-shelter/stack-queue-animal-shelter.md) |
