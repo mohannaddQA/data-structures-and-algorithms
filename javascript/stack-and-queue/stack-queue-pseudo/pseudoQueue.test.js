@@ -1,4 +1,3 @@
-// Import the PseudoQueue class from your implementation
 const PseudoQueue = require("./queue-pseudo");
 
 describe("PseudoQueue", () => {
