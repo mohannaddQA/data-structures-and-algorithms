@@ -39,5 +39,8 @@ To run your tests
 | challenge 11 - DSA | [Pseudo queue](./javascript/stack-and-queue/stack-queue-pseudo/pseudoQueue.md)                                 |
 | challenge 12 - DSA | [queue animal shilter](.//javascript/stack-and-queue/stack-queue-animal-shelter/stack-queue-animal-shelter.md) |
 | challenge 13 - DSA | not done yet !                                                                                                 |
-| challenge 14 - DSA | not done yet !                                                                                                 |
+| challenge 14 - DSA | [mock interview practice](./javascript/stack-and-queue/mockInterview/MockInterviews.md)                        |
 | challenge 15 - DSA | [binary search tree](./javascript/trees/BinaryTree-BST/BT.md)                                                  |
+| challenge 16       | not done yet !                                                                                                 |
+| challenge 17       | not done yet !                                                                                                 |
+| challenge 18       | not done yet !                                                                                                 |
