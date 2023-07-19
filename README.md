@@ -24,17 +24,20 @@ To run your tests
 
 ### table of contents for Code code challenges
 
-| challeng number    | code challenge                                                                                      |
-| ------------------ | --------------------------------------------------------------------------------------------------- |
-| callenge 1         | [array reverse](./javascript/code-challenges/reverse-array/reverse-array.md)                        |
-| callenge 2         | [array insert shift](./javascript/code-challenges/array-insert-shift/array-insert-shift.md)         |
-| callenge 3         | [Binary search](./javascript/code-challenges/array-binary-search/array-binary-search.md)            |
-| challenge 4        | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)            |
-| challenge 5 - DSA  | [Linked List creation](./javascript/linked-list/linked-list-creation/linked-list.md)                |
-| challenge 6 - DSA  | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md) |
-| challenge 7 - DSA  | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                      |
-| challenge 8 - DSA  | [Linked List zip](./javascript/linked-list/linked-list-zip/linked-list-zip.md)                      |
-| challenge 9 - DSA  | [mock interview practice](./javascript/linked-list/linked-list-reverse/linked-list-reverse.md)      |
-| challenge 10 - DSA | [stack and queue](./javascript/stack-and-queue/stack-and-queue-implementation/stackQueue.md)        |
-| challenge 11 - DSA | [Pseudo queue](./javascript/stack-and-queue/stack-queue-pseudo/pseudoQueue.md)                      |
+| challeng number    | code challenge                                                                                                 |
+| ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| callenge 1         | [array reverse](./javascript/code-challenges/reverse-array/reverse-array.md)                                   |
+| callenge 2         | [array insert shift](./javascript/code-challenges/array-insert-shift/array-insert-shift.md)                    |
+| callenge 3         | [Binary search](./javascript/code-challenges/array-binary-search/array-binary-search.md)                       |
+| challenge 4        | [mock interview practice](./javascript/code-challenges/mock-interview/mock-interview.md)                       |
+| challenge 5 - DSA  | [Linked List creation](./javascript/linked-list/linked-list-creation/linked-list.md)                           |
+| challenge 6 - DSA  | [Linked List insertions](./javascript/linked-list/linked-list-insertions/linked-list-insertions.md)            |
+| challenge 7 - DSA  | [Linked List kth](./javascript/linked-list/linked-list-kth/linked-list-kth.md)                                 |
+| challenge 8 - DSA  | [Linked List zip](./javascript/linked-list/linked-list-zip/linked-list-zip.md)                                 |
+| challenge 9 - DSA  | [mock interview practice](./javascript/linked-list/linked-list-reverse/linked-list-reverse.md)                 |
+| challenge 10 - DSA | [stack and queue](./javascript/stack-and-queue/stack-and-queue-implementation/stackQueue.md)                   |
+| challenge 11 - DSA | [Pseudo queue](./javascript/stack-and-queue/stack-queue-pseudo/pseudoQueue.md)                                 |
 | challenge 12 - DSA | [queue animal shilter](.//javascript/stack-and-queue/stack-queue-animal-shelter/stack-queue-animal-shelter.md) |
+| challenge 13 - DSA | not done yet !                                                                                                 |
+| challenge 14 - DSA | not done yet !                                                                                                 |
+| challenge 15 - DSA | [binary search tree](./javascript/trees/BinaryTree-BST/BT.md)                                                  |
