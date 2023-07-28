@@ -42,5 +42,6 @@ To run your tests
 | challenge 14 - DSA | [mock interview practice](./javascript/stack-and-queue/mockInterview/MockInterviews.md)                        |
 | challenge 15 - DSA | [binary search tree](./javascript/trees/BinaryTree-BST/BT.md)                                                  |
 | challenge 16       | not done yet !                                                                                                 |
-| challenge 17       | [binary tree breadth first](./javascript/trees/tree-breadth-first/readme.md)                                   |
-| challenge 18       | not done yet !                                                                                                 |
+| challenge 17 - DSA | [binary tree breadth first](./javascript/trees/tree-breadth-first/readme.md)                                   |
+| challenge 18 - DSA | [tree fizz buzz](./javascript/trees/tree-fizz-buzz/readme.md)                                                  |
+| challenge 19       | not done yet !                                                                                                 |
