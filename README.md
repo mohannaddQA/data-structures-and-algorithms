@@ -45,3 +45,4 @@ To run your tests
 | challenge 17 - DSA | [binary tree breadth first](./javascript/trees/tree-breadth-first/readme.md)                                   |
 | challenge 18 - DSA | [tree fizz buzz](./javascript/trees/tree-fizz-buzz/readme.md)                                                  |
 | challenge 19       | [mock interview practice](./javascript/trees/mockinterview/readme.md)                                          |
+| challenge 26       | [insertion sort](./sorting/insertion/README.md)                                                                |
