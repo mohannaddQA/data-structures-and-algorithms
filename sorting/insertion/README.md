@@ -54,7 +54,7 @@ This function sorts the input array using the insertion sort algorithm.<br>
 
 ### code
 
-[binary search tree](./insertion.js) <br>
+[INSERTION SORT](./insertion.js) <br>
 
 ### tests
 
