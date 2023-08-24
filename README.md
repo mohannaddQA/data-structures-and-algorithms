@@ -46,3 +46,4 @@ To run your tests
 | challenge 18 - DSA | [tree fizz buzz](./javascript/trees/tree-fizz-buzz/readme.md)                                                  |
 | challenge 19       | [mock interview practice](./javascript/trees/mockinterview/readme.md)                                          |
 | challenge 26       | [insertion sort](./sorting/insertion/README.md)                                                                |
+| challenge 27       | [merge sort](./sorting//merge/README.md)                                                                       |
