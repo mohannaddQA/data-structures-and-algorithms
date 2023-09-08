@@ -49,4 +49,5 @@ To run your tests
 | challenge 27       | [merge sort](./sorting//merge/README.md)                                                                       |
 | challenge 28       | [sorting: comparison](./javascript/comparison/readme.md)                                                       |
 | challenge 29       | not done yet                                                                                                   |
-| challenge 30 - DSA | [Hash Table](./javascript/HashTable/hashTable.md)                                                              |
+| challenge 30 - DSA | [Hash Table](./javascript/HashMap/HashTable/hashTable.md)                                                      |
+| challenge 31 - DSA | [repeated word](./javascript/HashMap/hashmap-repeated-word/repeatedWord.md)                                    |
