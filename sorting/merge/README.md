@@ -47,7 +47,7 @@ merging two sorted arrays (left and right) into a single sorted array (arr).<br>
 
 ### code
 
-[INSERTION SORT](./insertion.js) <br>
+[MERGE SORT](./mergeSort.js) <br>
 
 ### tests
 

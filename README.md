@@ -48,3 +48,5 @@ To run your tests
 | challenge 26       | [insertion sort](./sorting/insertion/README.md)                                                                |
 | challenge 27       | [merge sort](./sorting//merge/README.md)                                                                       |
 | challenge 28       | [sorting: comparison](./javascript/comparison/readme.md)                                                       |
+| challenge 29       | not done yet                                                                                                   |
+| challenge 30 - DSA | [Hash Table](./javascript/HashTable/hashTable.md)                                                              |
