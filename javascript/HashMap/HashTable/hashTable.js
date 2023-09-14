@@ -2,9 +2,9 @@
 const { LinkedList } = require("./linkedlist");
 
 class Hashtable {
-  constructor(size) {
+  constructor(size = 100) {
     this.size = size;
-    this.table = new Array(size);
+    this.table = new Array(size); //we must inisizlize a size
   }
 
   hash(key) {

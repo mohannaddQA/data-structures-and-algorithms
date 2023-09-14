@@ -51,3 +51,4 @@ To run your tests
 | challenge 29       | [mock interview practice](./sorting/mockInterview/readme.md)                                                   |
 | challenge 30 - DSA | [Hash Table](./javascript/HashMap/HashTable/hashTable.md)                                                      |
 | challenge 31 - DSA | [repeated word](./javascript/HashMap/hashmap-repeated-word/repeatedWord.md)                                    |
+| challenge 32 - DSA | [tree intersection](./javascript/trees/treeIntersection/treeIntersection.md)                                   |
