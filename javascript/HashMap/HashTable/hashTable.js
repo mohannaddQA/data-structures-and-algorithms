@@ -68,6 +68,21 @@ class Hashtable {
     return false;
   }
 
+  // keys() {
+  //   const keys = [];
+  //   for (let i = 0; i < this.size; i++) {
+  //     if (this.table[i]) {
+  //       let current = this.table[i].head;
+  //       while (current) {
+  //         const entry = current.value;
+  //         keys.push(Object.keys(entry)[0]);
+  //         current = current.next;
+  //       }
+  //     }
+  //   }
+  //   return keys;
+  // }
+
   keys() {
     const keys = [];
     for (let i = 0; i < this.size; i++) {
