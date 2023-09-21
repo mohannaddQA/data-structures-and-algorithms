@@ -1,8 +1,6 @@
 "use strict";
 
-// Vertex - A vertex, also called a “node”, is a data object that can have zero or more adjacent vertices.
-// Edge - An edge is a connection between two nodes.
-// Neighbor - The neighbors of a node are its adjacent nodes, i.e., are connected via an edge.
+
 
 class Vertex {
   constructor(value) {
